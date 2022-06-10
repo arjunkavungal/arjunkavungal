@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yimen3
-- 👀 I’m interested in learning data science.
-- 🌱 I’m currently learning data structures for data science.
+- 👀 I’m interested in learning how to create a machine learning application.
+- 🌱 I’m currently learning database management.
 - 💞️ I’m looking to collaborate on computational quantum finance.
 - 📫 How to reach me .
 
