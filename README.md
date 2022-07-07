@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yimen3
-- 👀 I’m interested in learning how to create a machine learning application.
+- 👀 I’m interested in learning how to create a project that will get me a data science job interview.
 - 🌱 I’m currently learning database management.
 - 💞️ I’m looking to collaborate on computational quantum finance.
 - 📫 How to reach me .
