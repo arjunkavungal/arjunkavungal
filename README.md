@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunkavungal&label=Profile%20views&color=0e75b6&style=flat" alt="arjunkavungal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunkavungal" alt="arjunkavungal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunkavungal&theme=matrix" alt="arjunkavungal" /></a> </p>
 
 - 🔭 I’m currently working on [reddit keyword research](https://flask-production-20c2.up.railway.app/)
 
